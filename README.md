@@ -1,8 +1,5 @@
 # Ansible Project Template
 
-![Status](https://img.shields.io/badge/project-template-active-blue)
-![Tech Stack](https://img.shields.io/badge/built_with-Ansible-critical)
-
 ## Overview
 
 This is my modular **Ansible Automation Project Template**, built for rapid deployment, repeatability, and clean structure in production-like environments. It follows Ansible best practices, GitOps-ready principles, and is tailored for use in cloud automation, Linux hardening, user provisioning, service management, and CI/CD integrations.
