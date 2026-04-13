@@ -2,15 +2,15 @@
 
 ## Overview
 
-This is my modular **Ansible Automation Project Template**, built for rapid deployment, repeatability and clean structure in production environments. It follows Ansible best practices and is tailored for use in cloud automation, Linux hardening, user provisioning, service management and CI/CD integrations.
+This is my modular **Ansible Automation Project Template** built for rapid deployment, repeatability and clean structure in production environments. It follows Ansible best practices and is tailored for use in cloud automation, Linux hardening, user provisioning, service management and CI/CD integrations.
 
 ## Features
 
 •	Modular roles/ structure
 	•	Passwordless SSH control from macOS to Linux
 	•	Role automation (user_provision, file_ops)
-	•	Click-by-click GitHub execution (no CLI setup required)
-	•	GitOps and CI/CD-ready
+	•	GitHub execution (no CLI setup required)
+	•	GitOps and CI/CD
 	•	Easily extendable for:
 	•	Cloud provisioning (AWS, Azure)
 	•	Linux hardening and user management
